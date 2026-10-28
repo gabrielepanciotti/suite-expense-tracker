@@ -1,0 +1,12 @@
+﻿Data,Ora,Fuso orario,Descrizione,Valuta,Lordo ,Tariffa ,Netto,Saldo,Codice transazione,Indirizzo email mittente,Nome,Nome banca,Conto bancario,Importo per spedizione e imballaggio,IVA,N. fattura pro-forma,Codice transazione di riferimento
+1/4/2026,12:00:00,CET,Bonifico bancario sul conto PayPal,EUR,"120,00","0,00","120,00","0,00",BONIF-KORO,,,,,,,,PAY-KORO
+1/4/2026,12:00:00,CET,Pagamento generico,EUR,"-100,00","0,00","-100,00","0,00",PAY-KORO,,KoRo Handels GmbH,,,,,,
+3/4/2026,12:00:00,CET,Bonifico bancario sul conto PayPal,EUR,"85,32","0,00","85,32","0,00",BONIF-RYAN,,,,,,,,GEN-RYAN
+3/4/2026,12:00:00,CET,Pagamento generico,EUR,"-85,32","0,00","-85,32","0,00",GEN-RYAN,,"PayPal (Europe) S.à r.l. et Cie, SCA",,,,,,PAY-RYAN
+3/4/2026,12:00:00,CET,Pagamento generico,EUR,"-85,32","0,00","-85,32","0,00",PAY-RYAN,,Ryanair Limited,,,,,,
+5/4/2026,12:00:00,CET,Bonifico bancario sul conto PayPal,EUR,"75,22","0,00","75,22","0,00",BONIF-DEAD,,,,,,,,GEN-DEAD
+5/4/2026,12:00:00,CET,Pagamento generico,EUR,"-75,22","0,00","-75,22","0,00",GEN-DEAD,,"PayPal (Europe) S.à r.l. et Cie, SCA",,,,,,
+7/4/2026,12:00:00,CET,Bonifico bancario sul conto PayPal,EUR,"33,87","0,00","33,87","0,00",BONIF-AMZ,,,,,,,,PAY-AMZ
+7/4/2026,12:00:00,CET,Pagamento generico,EUR,"-33,87","0,00","-33,87","0,00",PAY-AMZ,,Amazon EU,,,,,,
+9/4/2026,12:00:00,CET,Bonifico bancario sul conto PayPal,EUR,"33,87","0,00","33,87","0,00",BONIF-SPOT,,,,,,,,PAY-SPOT
+9/4/2026,12:00:00,CET,Pagamento generico,EUR,"-33,87","0,00","-33,87","0,00",PAY-SPOT,,Spotify AB,,,,,,
